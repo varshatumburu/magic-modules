@@ -126,5 +126,5 @@ resource "google_bigquery_job" "{{$.PrimaryResourceId}}" {
     }
   }
 
-  depends_on = ["google_project_iam_member.encrypt_role"]
+  depends_on = ["google_kms_crypto_key_iam_member.encrypt_role"]
 }
