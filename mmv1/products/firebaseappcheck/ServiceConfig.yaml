@@ -13,6 +13,7 @@
 
 ---
 name: 'ServiceConfig'
+resource_type: Service
 description: The enforcement configuration for a service supported by App Check.
 references:
   guides:

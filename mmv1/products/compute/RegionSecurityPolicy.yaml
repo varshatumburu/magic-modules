@@ -13,6 +13,7 @@
 
 ---
 name: 'RegionSecurityPolicy'
+resource_type: SecurityPolicy
 description: |
   Represents a Region Cloud Armor Security Policy resource.
 min_version: 'beta'

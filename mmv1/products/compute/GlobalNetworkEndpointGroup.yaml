@@ -13,6 +13,7 @@
 
 ---
 name: 'GlobalNetworkEndpointGroup'
+resource_type: NetworkEndpointGroup
 kind: 'compute#networkEndpointGroup'
 description: |
   A global network endpoint group contains endpoints that reside outside of Google Cloud.

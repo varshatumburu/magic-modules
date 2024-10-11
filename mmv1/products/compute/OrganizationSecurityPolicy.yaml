@@ -13,6 +13,7 @@
 
 ---
 name: 'OrganizationSecurityPolicy'
+resource_type: SecurityPolicy
 description: |
   Organization security policies are used to control incoming/outgoing traffic.
 min_version: 'beta'

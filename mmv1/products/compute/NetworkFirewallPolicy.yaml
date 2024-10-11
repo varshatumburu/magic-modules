@@ -13,6 +13,7 @@
 
 ---
 name: 'NetworkFirewallPolicy'
+resource_type: FirewallPolicy
 description: "The Compute NetworkFirewallPolicy resource"
 docs:
 base_url: 'projects/{{project}}/global/firewallPolicies'

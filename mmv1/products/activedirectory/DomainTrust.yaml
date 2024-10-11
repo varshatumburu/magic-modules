@@ -13,6 +13,7 @@
 
 ---
 name: 'DomainTrust'
+resource_type: Domain
 kind: 'activedirectory#trust'
 description: Adds a trust between Active Directory domains
 references:

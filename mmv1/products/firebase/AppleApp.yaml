@@ -13,6 +13,7 @@
 
 ---
 name: 'AppleApp'
+resource_type: IosApp
 description: |
   A Google Cloud Firebase Apple application instance
 min_version: 'beta'

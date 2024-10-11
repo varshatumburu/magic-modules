@@ -13,6 +13,7 @@
 
 ---
 name: 'LinkedDataset'
+resource_type: Link
 description: |
   Describes a BigQuery linked dataset
 references:

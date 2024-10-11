@@ -13,6 +13,7 @@
 
 ---
 name: 'Vm'
+resource_type: Node
 description: |
   A Cloud TPU VM instance.
 min_version: 'beta'

@@ -13,6 +13,7 @@
 
 ---
 name: 'EnvironmentKeyvaluemapsEntries'
+resource_type: KeyValueEntry
 description: |
   Creates key value entries in a key value map scoped to an environment.
 references:

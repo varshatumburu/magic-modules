@@ -13,6 +13,7 @@
 
 ---
 name: 'FeatureGroupFeature'
+resource_type: Feature
 description: Vertex AI Feature Group Feature is feature metadata information.
 references:
   guides:

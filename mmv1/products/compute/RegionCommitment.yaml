@@ -13,6 +13,7 @@
 
 ---
 name: 'RegionCommitment'
+resource_type: Commitment
 kind: 'compute#commitment'
 description: |
   Represents a regional Commitment resource.

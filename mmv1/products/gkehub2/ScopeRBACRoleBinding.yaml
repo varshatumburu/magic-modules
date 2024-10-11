@@ -13,6 +13,7 @@
 
 ---
 name: 'ScopeRBACRoleBinding'
+resource_type: RBACRoleBinding
 description: |
   RBACRoleBinding represents a rbacrolebinding across the Fleet.
 references:

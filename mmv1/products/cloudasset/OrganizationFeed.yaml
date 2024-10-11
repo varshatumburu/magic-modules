@@ -13,6 +13,7 @@
 
 ---
 name: 'OrganizationFeed'
+resource_type: Feed
 description: |
   Describes a Cloud Asset Inventory feed used to to listen to asset updates.
 references:

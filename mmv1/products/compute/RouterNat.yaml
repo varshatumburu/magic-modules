@@ -13,6 +13,7 @@
 
 ---
 name: 'RouterNat'
+resource_type: Router
 description: |
   A NAT service created in a router.
 

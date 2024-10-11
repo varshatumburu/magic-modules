@@ -13,6 +13,7 @@
 
 ---
 name: 'OrganizationSecurityPolicyRule'
+resource_type: SecurityPolicy
 description: |
   A rule for the OrganizationSecurityPolicy.
 min_version: 'beta'

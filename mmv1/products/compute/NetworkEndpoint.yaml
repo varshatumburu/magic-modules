@@ -13,6 +13,7 @@
 
 ---
 name: 'NetworkEndpoint'
+resource_type: NetworkEndpointGroup
 kind: 'compute#networkEndpoint'
 description: |
   A Network endpoint represents a IP address and port combination that is

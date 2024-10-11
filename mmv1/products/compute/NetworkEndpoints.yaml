@@ -13,6 +13,7 @@
 
 ---
 name: 'NetworkEndpoints'
+resource_type: NetworkEndpointGroup
 kind: 'compute#networkEndpoints'
 description: |
   A set of network endpoints belonging to a network endpoint group (NEG). A

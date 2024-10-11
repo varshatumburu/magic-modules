@@ -13,6 +13,7 @@
 
 ---
 name: 'EnvironmentKeyvaluemaps'
+resource_type: KeyValueMap
 description: |
   Collection of key/value string pairs.
 references:

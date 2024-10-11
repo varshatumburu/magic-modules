@@ -13,6 +13,7 @@
 
 ---
 name: 'RegionTargetTcpProxy'
+resource_type: TargetTcpProxy
 description: |
   Represents a RegionTargetTcpProxy resource, which is used by one or more
   forwarding rules to route incoming TCP requests to a regional TCP proxy load

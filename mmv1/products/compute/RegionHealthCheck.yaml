@@ -13,6 +13,7 @@
 
 ---
 name: 'RegionHealthCheck'
+resource_type: HealthCheck
 kind: 'compute#healthCheck'
 description: |
   Health Checks determine whether instances are responsive and able to do work.

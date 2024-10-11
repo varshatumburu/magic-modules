@@ -14,6 +14,7 @@
 ---
 # API resource name
 name: 'kmsconfig'
+resource_type: KmsConfig
 description: |
   NetApp Volumes always encrypts your data at rest using volume-specific keys.
 

@@ -13,6 +13,7 @@
 
 ---
 name: 'Network'
+resource_type: VmwareEngineNetwork
 description: |
   Provides connectivity for VMware Engine private clouds.
 references:
